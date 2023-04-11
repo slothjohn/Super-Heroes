@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/hv0S11e.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## https://i.imgur.com/hv0S11e.mp4
+## https://imgur.com/gallery/VkIGgR0
 
 
 ## Notes
